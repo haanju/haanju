@@ -13,6 +13,8 @@ Applied Machine Learning Researcher, Technical Project Manager
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/haanju.yoo/)](https://www.facebook.com/haanju.yoo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haanju.yoo@gmail.com)](mailto:haanju.yoo@gmail.com)
 
+✨My previous github account: https://github.com/neohanju
+
 #### Work Experience
 
 - Part Leader & Product Owner, Staff SW Engineer @ [Samsung Research](https://research.samsung.com/) - RecSys for personalized food & healthcare service (Smart Cooking)
