@@ -3,6 +3,7 @@
 
 Applied Machine Learning Researcher, Technical Project Manager
 
+- Healthcare AI
 - Recommender System
 - Multi-target Tracking, Sensor Fusion
 - Action Recognition
@@ -17,7 +18,7 @@ Applied Machine Learning Researcher, Technical Project Manager
 
 #### Work Experience
 
-- Technical Project Manager @ [NAVER Clova AI Research](https://clova.ai/en/research/research-areas.html) - Prediction models for medical & healthcare services
+- Leader of Healthcare AI, Technical Project Manager @ [NAVER AI Lab](https://clova.ai/en/research/research-areas.html) - Prediction models for medical & healthcare services
 - Part Leader & Product Owner, Staff SW Engineer @ [Samsung Research](https://research.samsung.com/) - RecSys for personalized food & healthcare service (Smart Cooking)
 - Research Assistant Professor @ [Dankook University](https://www.dankook.ac.kr/en/web/international) - Real-time multi-target tracking, Sensor fusion & anomaly detection
 - iOS Developer & Co-founder @ [Viva Republica(Toss)](https://team.toss.im/en/), [Ulabla](https://www.youtube.com/watch?v=KcA095AJJHA) - P2P Money transfer, Near-ultrasound communication
