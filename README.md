@@ -1,7 +1,7 @@
 ### Yoo, Haanju
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaanju-yoo%2Fhit-counter&count_bg=%233EB650&title_bg=%23292930&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Applied Machine Learning Researcher, Technical Project Manager
+Applied Research Scientist, Technical Project Manager
 
 - Healthcare AI
 - Recommender System
